@@ -6,7 +6,9 @@ namespace vj_1
 {
     class Class1
     {
-
-        //komentar
+        int metoda()
+        {
+            return 2;
+        }
     }
 }
