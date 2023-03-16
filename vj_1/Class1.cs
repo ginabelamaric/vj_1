@@ -8,7 +8,7 @@ namespace vj_1
     {
         int metoda()
         {
-            return 2;
+            return 1;
         }
     }
 }
