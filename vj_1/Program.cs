@@ -8,6 +8,7 @@ namespace vj_1
         {
             Console.WriteLine("Novo");
             Console.WriteLine("Hello World!efre");
+            //komentar
         }
     }
 }
